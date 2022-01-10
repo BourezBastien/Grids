@@ -1,0 +1,17 @@
+section{
+    width: 1200px;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0 auto;
+    gap: 25px;
+
+}
+
+section .content{
+    width: 200px;
+    height: 250px;
+    background-color: blueviolet;
+    margin: 0 auto;
+
+}
